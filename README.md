@@ -5,11 +5,11 @@
 
 
 
-# About Me: 
+# About Me
 
 I am a full stack software engineer seeking to work with a talented team where I can both deliver and grow. I have developed several full-stack web applications, each entirely from scratch.
 
-## Tech Stack:
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
