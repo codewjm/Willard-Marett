@@ -36,8 +36,9 @@ I am a full stack software engineer seeking to work with a talented team where I
 
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewjm&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=codewjm&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewjm&theme=blue-green" />
+
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-marett-software-engineer/)
