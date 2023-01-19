@@ -34,9 +34,9 @@ I am a full stack software engineer seeking to work with a talented team where I
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-
+<!-- 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=codewjm&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api?username=codewjm&theme=blue-green" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewjm&theme=blue-green" /> -->
 
 
