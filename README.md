@@ -7,7 +7,7 @@
 
 # About Me
 
-I am a full stack software engineer seeking to work with a talented team where I can both deliver and grow. I have developed several full-stack web applications, each entirely from scratch.
+I am a full stack software engineer seeking to work with a talented team where I can both deliver and grow. I have developed several full-stack web applications, each entirely from the ground up.
 
 ## Tech Stack
 
